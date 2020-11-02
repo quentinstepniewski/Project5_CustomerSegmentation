@@ -19,7 +19,7 @@ Dataset used : <a href='https://www.kaggle.com/olistbr/brazilian-ecommerce'>Data
 
 * Adapt unsupervised algorithm's hyperparameters to enhance its performances
 * Evaluate performances of a unsupervised algorithm
-* Transform features appropriately to use them in a unsupervised learning algorithm
+* Transform features appropriately to use them in an unsupervised learning algorithm
 * Implement a sector-specific relevant unsupervised machine learning model
 
 
