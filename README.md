@@ -13,7 +13,7 @@ Implementation of a unsupervised classification algorithm to perform a customer 
 * Create Cluster Evaluation Function (notably for interpretability)
 * Evaluate stability over time of our clusters
 
-Dataset used : <a href=' https://www.kaggle.com/olistbr/brazilian-ecommerce'>Data E-commerce</a>
+Dataset used : <a href='https://www.kaggle.com/olistbr/brazilian-ecommerce'>Data E-commerce</a>
 
 ## Assessed Skills:
 
